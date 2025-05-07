@@ -84,15 +84,7 @@ Follow these steps to set up the project locally:
 
 ---
 
-## Screenshots
 
-### Workflow List
-![Workflow List](https://via.placeholder.com/800x400?text=Workflow+List)
-
-### Workflow Canvas
-![Workflow Canvas](https://via.placeholder.com/800x400?text=Workflow+Canvas)
-
----
 
 ## Contributing
 
