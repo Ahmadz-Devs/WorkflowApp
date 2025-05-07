@@ -116,4 +116,3 @@ This project is open-source and licensed under the [MIT License](https://opensou
 
 If you have any questions, feel free to reach out:
 - **GitHub**: [Ahmadz-Devs](https://github.com/Ahmadz-Devs)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
